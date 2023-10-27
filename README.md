@@ -47,8 +47,3 @@ Mediator, Memento, Observer, State, Strategy và Visitor
  Code không chỉ cho máy đọc! Mà còn cả con người nữa hãy coi trọng người đọc vì
  tương lai người đọc code của bạn rất có thể là chính bạn.
 ```
-## Note: 
-- Mình cũng đã làm một video giới thiệu các bạn có thể  thấy ở [đây](https://youtu.be/nZaAe4Xtpds)
-## Donate
-<a href="https://www.buymeacoffee.com/doctorblue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/doctorblue00)
